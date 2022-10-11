@@ -1,4 +1,4 @@
-I have no idea what I am doing with my life.
+Currently Learning Android + ReactNative.
 
 <!---
 ZENSH1/ZENSH1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
