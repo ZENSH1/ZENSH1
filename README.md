@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I'm Zain Sherazi, an Android Developer</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/syed-zain-ul-abidin-sherazi-15aa62246" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/syed-zain-ul-abidin-sherazi-15aa62246"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" alt="LinkedIn"></a>
 </p>
 
 <p align="center">I am a motivated Android developer with a focus on new technologies and a strong desire for continuous growth. My dedication to staying current in Android development empowers me to adapt quickly. Eager to contribute to innovative mobile app projects and embrace challenges.</p>
