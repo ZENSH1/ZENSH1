@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/syed-zain-ul-abidin-sherazi-15aa62246"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" alt="LinkedIn"></a>
 </p>
 
-<p align="center">I am a motivated Android developer with a focus on new technologies and a strong desire for continuous growth. My dedication to staying current in Android development empowers me to adapt quickly. Eager to contribute to innovative mobile app projects and embrace challenges.</p>
+<p align="center">I am a driven Software Engineer specializing in mobile development, with a strong focus on innovation and continuous learning. My adaptability and dedication to mastering new technologies allow me to build robust, scalable mobile applications. I'm enthusiastic about contributing to forward-thinking projects and solving real-world problems through technology.</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
