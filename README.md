@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Zain Sherazi, an Android Developer</h1>
+<h1 align="center">Hello there! I'm Zain Sherazi, Software Engineer</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-zain-ul-abidin-sherazi-15aa62246"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" alt="LinkedIn"></a>
