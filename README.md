@@ -1,4 +1,6 @@
-<h1 align="center">Hello there! I'm Zain Sherazi, Software Engineer</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1034a6,100:0080ff&text=Zain%20Sherazi-nl-%20-nl-&section=header&desc=Software%20Engineer%20|%20Android%20|%20React%20Native&fontColor=fff&animation=fadeIn&rotate=0&fontSize=60&descSize=16" alt="Zain Sherazi"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-zain-ul-abidin-sherazi-15aa62246"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" alt="LinkedIn"></a>
