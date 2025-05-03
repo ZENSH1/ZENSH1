@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1034a6,100:0080ff&text=Zain%20Sherazi-nl-%20-nl-&section=header&desc=Software%20Engineer%20|%20Android%20|%20React%20Native&fontColor=fff&animation=fadeIn&rotate=0&fontSize=60&descSize=16" alt="Zain Sherazi"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1034a6,100:0080ff&text=Zain%20Sherazi-nl-%20-nl-&section=header&desc=Software%20Engineer%20|%20Android%20|%20React%20Native&fontColor=fff&animation=fadeIn&rotate=0&fontSize=60&descSize=16" alt="Zain Sherazi"/>
 </p>
 
 <p align="center">
