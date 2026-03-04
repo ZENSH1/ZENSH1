@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/syed-zain-ul-abidin-sherazi-15aa62246">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
-  <a href="mailto:kenway786@gmail.com">
+  <a href="mailto:syedzainsherazi47@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>&nbsp;
   <a href="https://github.com/ZENSH1">
